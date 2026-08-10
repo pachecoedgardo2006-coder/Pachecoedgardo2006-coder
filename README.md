@@ -40,7 +40,7 @@
 ## 🛠️ Tech Stack & Herramientas
 
 ### Lenguajes & Frameworks
-p>
+<p>
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -96,21 +96,6 @@ p>
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pachecoedgardo2006-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecoedgardo2006-coder&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Lenguajes más usados"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-AQUI&theme=tokyonight&hide_border=true" width="97%" alt="Racha de contribuciones"/>
-</div>
 
 ---
 
