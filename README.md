@@ -121,7 +121,7 @@
         <b>Tech Stack:</b> Node.js, Express, Tailwind CSS, Supabase, Render.
       </p>
       <p align="center">
-        <a href="#"><b>🔗 Ver Repositorio</b></a>
+        <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6.git"><b>🔗 Ver Repositorio</b></a>
       </p>
     </td>
     <td width="50%">
@@ -131,7 +131,7 @@
         <b>Tech Stack:</b> C#, .NET Core, SQL Server, Swagger.
       </p>
       <p align="center">
-        <a href="#"><b>🔗 Ver Repositorio</b></a>
+        <a href="https://github.com/pachecoedgardo2006-coder/GymQuest.git"><b>🔗 Ver Repositorio</b></a>
       </p>
     </td>
   </tr>
