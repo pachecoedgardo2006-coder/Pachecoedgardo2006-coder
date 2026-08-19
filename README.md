@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=¡Hola!%20Soy%20Edgardo%20Pacheco&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <!-- Título y subtítulo -->
-  <h1>💻 Systems Engineer Student & Full-Stack Developer</h1>
+  <h1>💻 Full-Stack Developer & Systems Engineer </h1>
   
   <p>
     <b>Apasionado por el desarrollo backend, la arquitectura de software y las soluciones digitales de alto impacto.</b>
