@@ -17,7 +17,7 @@
   <a href="mailto:pachecoedgardo12345@correo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/pachecoedgardo2006-coder">
+  <a href="https://portafolioedgardo.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
