@@ -11,13 +11,13 @@
   </p>
 
   <!-- Badges sociales / contacto -->
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/edgardopachecoo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tu-email@correo.com">
+  <a href="mailto:pachecoedgardo12345@correo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/pachecoedgardo2006-coder">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
