@@ -126,7 +126,7 @@
     </td>
     <td width="50%">
       <h3 align="center">⚙️ Backend Enterprise API (.NET)</h3>
-      <p align="center">API RESTful diseñada bajo arquitectura en capas, aplicando patrones de diseño, Entity Framework y autenticación JWT.</p>
+      <p align="center">API RESTful diseñada bajo arquitectura limpia, aplicando patrones de diseño, Entity Framework y autenticación JWT.</p>
       <p align="center">
         <b>Tech Stack:</b> C#, .NET Core, SQL Server, Swagger.
       </p>
