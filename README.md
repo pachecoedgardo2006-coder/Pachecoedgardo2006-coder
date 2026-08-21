@@ -30,16 +30,15 @@
   <br/>
 
 </div>
-
 ---
 
-## Sobre Mi
+## Sobre Mi Perfil Profesional
 
-*   **Educacion:** Estudiante de Ingenieria de Sistemas con perfil enfocado en desarrollo de software y analisis de datos.
-*   **Enfoque Actual:** Profundizando en arquitectura backend con **C# / .NET**, ecosistema **Angular** y proyectos **Full-Stack**.
-*   **Experiencia:** Desarrollo de aplicaciones web, administracion de bases de datos relacionales y no relacionales, y automatizacion de procesos.
-*   **Meta:** Colaborar en equipos agiles creando software escalable, mantenible y orientado a resolver problemas reales de negocio.
-*   **Fuera del codigo:** Apasionado por el baloncesto, el hardware y la ciberseguridad.
+*   **Formacion Academica:** Estudiante de Ingenieria de Sistemas en la Universidad de la Costa y Software Development Trainee en Riwi. Cuento ademas con formacion tecnica en diseno grafico y un diplomado en analisis de datos, lo que me aporta una vision integral del ciclo de vida del software.
+*   **Enfoque Tecnico:** Especializado en el desarrollo de APIs RESTful y arquitecturas backend limpias utilizando **C# / .NET** y el ecosistema **Node.js / Express**.
+*   **Intereses de Aprendizaje:** Actualmente ampliando mis conocimientos de forma autodidacta en DevSecOps, ciberseguridad y el despliegue de modelos de Inteligencia Artificial en entornos locales.
+*   **Entorno de Trabajo:** Usuario activo de Linux Ubuntu, manejando despliegues con Docker, control de versiones con Git/GitHub y administracion de bases de datos tanto locales como en la nube (Supabase).
+*   **Fuera del codigo:** Soy jugador activo en la liga universitaria de baloncesto y mantengo una estricta disciplina en el levantamiento de pesas. 
 
 ---
 
@@ -114,10 +113,10 @@
 
 <div align="center">
   <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=HOUSE-GRILL-6&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="House Grill 6 Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=HOUSE-GRILL-6&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="House Grill 6 Card" />
   </a>
   <a href="https://github.com/pachecoedgardo2006-coder/GymQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=GymQuest&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GymQuest Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=GymQuest&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GymQuest Card" />
   </a>
 </div>
 
