@@ -43,19 +43,6 @@
 
 ---
 
-## Estadisticas de Desarrollo
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pachecoedgardo2006-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadisticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pachecoedgardo2006-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha en GitHub" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecoedgardo2006-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes Principales" width="60%" />
-</div>
-
----
-
 ## Tech Stack & Herramientas
 
 <div align="center">
