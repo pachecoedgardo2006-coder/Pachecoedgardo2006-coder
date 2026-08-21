@@ -5,13 +5,13 @@
 
   <!-- Animacion de texto tipo maquina de escribir -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Systems+Engineering+Student;Backend+%26+Software+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Backend+Developer;Systems+Engineering+Student+%40+UniCosta;Software+Development+Trainee+%40+Riwi" alt="Typing SVG" />
   </a>
   
   <br/>
   
   <p>
-    <b>Apasionado por el desarrollo backend, la arquitectura de software y las soluciones digitales de alto impacto.</b>
+    <b>Desarrollador enfocado en arquitectura de software, bases de datos relacionales y soluciones escalables.</b>
   </p>
 
   <!-- Badges sociales / contacto -->
@@ -30,15 +30,43 @@
   <br/>
 
 </div>
+
 ---
 
 ## Sobre Mi Perfil Profesional
 
-*   **Formacion Academica:** Estudiante de Ingenieria de Sistemas en la Universidad de la Costa y Software Development Trainee en Riwi. Cuento ademas con formacion tecnica en diseno grafico y un diplomado en analisis de datos, lo que me aporta una vision integral del ciclo de vida del software.
+*   **Formacion Academica:** Estudiante de Ingenieria de Sistemas en la Universidad de la Costa y Software Development Trainee en Riwi. Cuento ademas con formacion tecnica en diseno grafico y un diplomado en analisis de datos, aportando una vision integral del ciclo de vida del software.
 *   **Enfoque Tecnico:** Especializado en el desarrollo de APIs RESTful y arquitecturas backend limpias utilizando **C# / .NET** y el ecosistema **Node.js / Express**.
-*   **Intereses de Aprendizaje:** Actualmente ampliando mis conocimientos de forma autodidacta en DevSecOps, ciberseguridad y el despliegue de modelos de Inteligencia Artificial en entornos locales.
-*   **Entorno de Trabajo:** Usuario activo de Linux Ubuntu, manejando despliegues con Docker, control de versiones con Git/GitHub y administracion de bases de datos tanto locales como en la nube (Supabase).
-*   **Fuera del codigo:** Soy jugador activo en la liga universitaria de baloncesto y mantengo una estricta disciplina en el levantamiento de pesas. 
+*   **Intereses de Aprendizaje:** Actualmente ampliando conocimientos de forma autodidacta en DevSecOps, ciberseguridad y el despliegue de modelos de Inteligencia Artificial en entornos locales.
+*   **Entorno de Trabajo:** Usuario activo de Linux Ubuntu, manejando despliegues con Docker, control de versiones con Git/GitHub y administracion de bases de datos tanto locales como en la nube.
+*   **Fuera del codigo:** Jugador activo en la liga universitaria de baloncesto y mantengo una estricta disciplina en el gimnasio con rutinas enfocadas en fuerza e hipertrofia.
+
+---
+
+## Proyectos Destacados
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>House Grill 6</h3>
+      <p>Dashboard administrativo completo para restaurantes. Gestion de menu, pedidos e integracion en tiempo real con transacciones SQL atomicas.</p>
+      <p><b>Tech Stack:</b> Node.js, Express, Tailwind CSS, Supabase</p>
+      <br/>
+      <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>GymQuest</h3>
+      <p>Backend corporativo diseñado bajo Clean Architecture. Implementacion de patrones de diseño, Entity Framework y autenticacion JWT segura.</p>
+      <p><b>Tech Stack:</b> C#, .NET Core, SQL Server, Swagger</p>
+      <br/>
+      <a href="https://github.com/pachecoedgardo2006-coder/GymQuest">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +96,7 @@
   <img src="https://img.shields.io/badge/FluentValidation-000000?style=for-the-badge&logo=checkmark&logoColor=white" alt="FluentValidation"/>
 </p>
 
-### Bases de Datos, ORMs & Herramientas
+### Bases de Datos, ORMs & Herramientas BD
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -87,37 +115,34 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### Data Analysis & Testing
+### Data Analysis & Herramientas de Negocio
 <p>
+  <img src="https://img.shields.io/badge/Python_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python para Analisis de Datos"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avanzado"/>
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace"/>
+</p>
+
+### Testing, QA & Documentacion
+<p>
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit"/>
   <img src="https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Moq"/>
+  <img src="https://img.shields.io/badge/FluentAssertions-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="FluentAssertions"/>
+  <img src="https://img.shields.io/badge/Scalar-181717?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="Scalar"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="OpenAPI / Swagger"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### DevOps & Entorno de Desarrollo
+### DevOps, Cloud & Entorno de Desarrollo
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider"/>
 </p>
 
-</div>
-
----
-
-## Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=HOUSE-GRILL-6&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="House Grill 6 Card" />
-  </a>
-  <a href="https://github.com/pachecoedgardo2006-coder/GymQuest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=GymQuest&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GymQuest Card" />
-  </a>
 </div>
 
 ---
