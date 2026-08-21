@@ -1,43 +1,64 @@
 <div align="center">
 
-  <!-- Imagen Banner principal -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=¡Hola!%20Soy%20Edgardo%20Pacheco&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+  <!-- Imagen Banner principal con gradiente -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,512BD4,06B6D4&height=250&section=header&text=Edgardo%20Pacheco&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner"/>
 
-  <!-- Título y subtítulo -->
-  <h1>💻 Full-Stack Developer & Systems Engineer </h1>
+  <!-- Animacion de texto tipo maquina de escribir -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Systems+Engineering+Student;Backend+%26+Software+Architecture" alt="Typing SVG" />
+  </a>
+  
+  <br/>
   
   <p>
     <b>Apasionado por el desarrollo backend, la arquitectura de software y las soluciones digitales de alto impacto.</b>
   </p>
 
   <!-- Badges sociales / contacto -->
-  <a href="https://www.linkedin.com/in/edgardopachecoo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:pachecoedgardo12345@correo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://portafolioedgardo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/edgardopachecoo">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:pachecoedgardo12345@correo.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://portafolioedgardo.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
 
-  <br/><br/>
+  <br/>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mi
 
-- 🎓 **Educación:** Estudiante de Ingeniería de Sistemas con perfil enfocado en desarrollo de software y análisis de datos.
-- ⚡ **Enfoque Actual:** Profundizando en arquitectura backend con **C# / .NET**, ecosistema **Angular** y proyectos **Full-Stack**.
-- 🛠️ **Experiencia:** Desarrollo de aplicaciones web, administración de bases de datos relacionales/no relacionales y automatización de procesos.
-- 🎯 **Meta:** Colaborar en equipos ágiles creando software escalable, mantenible y orientado a resolver problemas reales de negocio.
-- ⚽ **Fuera del código:** Apasionado por el baloncesto, el hardware y la ciberseguridad.
+*   **Educacion:** Estudiante de Ingenieria de Sistemas con perfil enfocado en desarrollo de software y analisis de datos.
+*   **Enfoque Actual:** Profundizando en arquitectura backend con **C# / .NET**, ecosistema **Angular** y proyectos **Full-Stack**.
+*   **Experiencia:** Desarrollo de aplicaciones web, administracion de bases de datos relacionales y no relacionales, y automatizacion de procesos.
+*   **Meta:** Colaborar en equipos agiles creando software escalable, mantenible y orientado a resolver problemas reales de negocio.
+*   **Fuera del codigo:** Apasionado por el baloncesto, el hardware y la ciberseguridad.
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+## Estadisticas de Desarrollo
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pachecoedgardo2006-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadisticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pachecoedgardo2006-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha en GitHub" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecoedgardo2006-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes Principales" width="60%" />
+</div>
+
+---
+
+## Tech Stack & Herramientas
+
+<div align="center">
 
 ### Lenguajes & Runtimes
 <p>
@@ -61,7 +82,7 @@
   <img src="https://img.shields.io/badge/FluentValidation-000000?style=for-the-badge&logo=checkmark&logoColor=white" alt="FluentValidation"/>
 </p>
 
-### Bases de Datos, ORMs & Herramientas BD
+### Bases de Datos, ORMs & Herramientas
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -80,70 +101,46 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### Data Analysis & Herramientas de Negocio
+### Data Analysis & Testing
 <p>
-  <img src="https://img.shields.io/badge/Python_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python para Análisis de Datos"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Avanzado"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace"/>
-</p>
-
-### Testing, QA & Documentación
-<p>
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit"/>
   <img src="https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Moq"/>
-  <img src="https://img.shields.io/badge/FluentAssertions-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="FluentAssertions"/>
-  <img src="https://img.shields.io/badge/Scalar-181717?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="Scalar"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="OpenAPI / Swagger"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### DevOps, Cloud & Entorno de Desarrollo
+### DevOps & Entorno de Desarrollo
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider"/>
 </p>
 
+</div>
+
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🍽️ House Grill 6 - Restaurant Dashboard</h3>
-      <p align="center">Sistema completo de administración para restaurantes con gestión de menú, pedidos e integración en tiempo real.</p>
-      <p align="center">
-        <b>Tech Stack:</b> Node.js, Express, Tailwind CSS, Supabase, Render.
-      </p>
-      <p align="center">
-        <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6.git"><b>🔗 Ver Repositorio</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Backend Enterprise API (.NET)</h3>
-      <p align="center">API RESTful diseñada bajo arquitectura limpia, aplicando patrones de diseño, Entity Framework y autenticación JWT.</p>
-      <p align="center">
-        <b>Tech Stack:</b> C#, .NET Core, SQL Server, Swagger.
-      </p>
-      <p align="center">
-        <a href="https://github.com/pachecoedgardo2006-coder/GymQuest.git"><b>🔗 Ver Repositorio</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=HOUSE-GRILL-6&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="House Grill 6 Card" />
+  </a>
+  <a href="https://github.com/pachecoedgardo2006-coder/GymQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecoedgardo2006-coder&repo=GymQuest&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GymQuest Card" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
   
   <!-- Footer decorativo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,512BD4,06B6D4&height=100&section=footer" width="100%" alt="Footer Wave"/>
   
-  <p><i>💡 "El código limpio siempre parece que fue escrito por alguien a quien le importa."</i></p>
+  <p><i>"El codigo limpio siempre parece que fue escrito por alguien a quien le importa."</i></p>
   
 </div>
