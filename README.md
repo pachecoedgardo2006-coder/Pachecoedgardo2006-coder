@@ -22,7 +22,7 @@
     <a href="mailto:pachecoedgardo12345@correo.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portafolioedgardo.netlify.app">
+    <a href="https://portafolioedgardo.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
@@ -48,9 +48,20 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
+      <h3>PatillaDash</h3>
+      <p>Plataforma SaaS multi-sede en producción para gestión de bebidas artesanales. Incluye BI, auditoría de caja en tiempo real y wizard de ventas móvil.</p>
+      <br/>
+      <p><b>Tech Stack:</b><br/>.NET 10, React 19, PostgreSQL, Supabase, Clean Architecture</p>
+      <br/>
+      <a href="https://github.com/pachecoedgardo2006-coder/PatillaDash">
+        <img src="https://img.shields.io/badge/Ver_Proyecto-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <h3>House Grill 6</h3>
-      <p>Dashboard administrativo completo para restaurantes. Gestion de menu, pedidos e integracion en tiempo real con transacciones SQL atomicas.</p>
-      <p><b>Tech Stack:</b> Node.js, Express, Tailwind CSS, Supabase</p>
+      <p>Dashboard administrativo completo para restaurantes. Gestión de menú, pedidos e integración en tiempo real con transacciones SQL atómicas.</p>
+      <br/>
+      <p><b>Tech Stack:</b><br/>Node.js, Express, Tailwind CSS, Supabase</p>
       <br/>
       <a href="https://github.com/pachecoedgardo2006-coder/HOUSE-GRILL-6">
         <img src="https://img.shields.io/badge/Ver_Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
@@ -58,8 +69,9 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3>GymQuest</h3>
-      <p>Backend corporativo diseñado bajo Clean Architecture. Implementacion de patrones de diseño, Entity Framework y autenticacion JWT segura.</p>
-      <p><b>Tech Stack:</b> C#, .NET Core, SQL Server, Swagger</p>
+      <p>Backend corporativo diseñado bajo Clean Architecture. Implementación de patrones de diseño, Entity Framework y autenticación JWT segura.</p>
+      <br/>
+      <p><b>Tech Stack:</b><br/>C#, .NET Core, SQL Server, Swagger</p>
       <br/>
       <a href="https://github.com/pachecoedgardo2006-coder/GymQuest">
         <img src="https://img.shields.io/badge/Ver_Repositorio-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio"/>
@@ -67,8 +79,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## Tech Stack & Herramientas
 
@@ -108,6 +118,7 @@
 
 ### Frontend & UI/UX
 <p>
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
