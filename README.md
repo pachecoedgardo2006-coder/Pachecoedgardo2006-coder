@@ -4,19 +4,7 @@
 
   <br/>
 
-```
-┌─[ root@pacheco ]-[~]─────────────────────────────────────────┐
-│  OS      Ubuntu Linux                                        │
-│  ROLE    Full-Stack & Backend Developer                      │
-│  FOCUS   APIs RESTful · arquitectura · sistemas escalables   │
-│  NODE    UniCosta x Riwi                                     │
-│  STATE   ACTIVE                                              │
-└──────────────────────────────────────────────────── $ whoami ┘
-```
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=1200&color=EDEDED&center=true&vCenter=true&width=780&height=46&lines=root%40pacheco%3A~%23+whoami;Full-Stack+%26+Backend+Developer;DevSecOps+%C2%B7+Clean+Architecture+%C2%B7+.NET" alt="Terminal identity"/>
-  </a>
+  <img src="./assets/motd.svg" width="100%" alt="Operator session"/>
 
   <br/>
 
@@ -32,16 +20,9 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-<pre>
-  [ 01 ]  IDENTITY
-  ────────────────────────────────────────────────────────────────────
-</pre>
-
-```
-$ cat /etc/profile.d/operator.sh
-```
+<img src="./assets/section-01.svg" width="100%" alt="01 Identity"/>
 
 - **Formacion academica:** Estudiante de Ingenieria de Sistemas en la Universidad de la Costa y Software Development Trainee en Riwi. Formacion tecnica en diseno grafico y diplomado en analisis de datos — vision integral del ciclo de vida del software.
 - **Enfoque tecnico:** APIs RESTful y arquitecturas backend limpias con **C# / .NET** y el ecosistema **Node.js / Express**.
@@ -49,20 +30,14 @@ $ cat /etc/profile.d/operator.sh
 - **Entorno de trabajo:** Linux Ubuntu. Despliegues con Docker, control de versiones con Git / GitHub y administracion de bases de datos locales y en la nube.
 - **Fuera del codigo:** Liga universitaria de baloncesto. Disciplina de fuerza e hipertrofia en el gimnasio.
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-<pre>
-  [ 02 ]  OPERATIONS
-  ────────────────────────────────────────────────────────────────────
-</pre>
+<img src="./assets/section-02.svg" width="100%" alt="02 Operations"/>
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <pre>
- PATILLADASH
- CLASS  ·  PRODUCTION
-      </pre>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/project-patilla.svg" width="100%" alt="PatillaDash"/>
       <p>Plataforma SaaS multi-sede en produccion para gestion de bebidas artesanales. BI, auditoria de caja en tiempo real y wizard de ventas movil.</p>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-0A0A0A?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10"/>
@@ -75,11 +50,8 @@ $ cat /etc/profile.d/operator.sh
         <img src="https://img.shields.io/badge/ABRIR_NODO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver PatillaDash"/>
       </a>
     </td>
-    <td width="33%" valign="top">
-      <pre>
- HOUSE GRILL 6
- CLASS  ·  ADMIN CORE
-      </pre>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/project-grill.svg" width="100%" alt="House Grill 6"/>
       <p>Dashboard administrativo completo para restaurantes. Gestion de menu, pedidos e integracion en tiempo real con transacciones SQL atomicas.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -91,11 +63,8 @@ $ cat /etc/profile.d/operator.sh
         <img src="https://img.shields.io/badge/ABRIR_NODO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver House Grill 6"/>
       </a>
     </td>
-    <td width="33%" valign="top">
-      <pre>
- GYMQUEST
- CLASS  ·  SECURE API
-      </pre>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/project-gym.svg" width="100%" alt="GymQuest"/>
       <p>Backend corporativo bajo Clean Architecture. Patrones de diseno, Entity Framework y autenticacion JWT segura.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-0A0A0A?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -110,18 +79,11 @@ $ cat /etc/profile.d/operator.sh
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<br/>
 
-<pre>
-  [ 03 ]  ARSENAL
-  ────────────────────────────────────────────────────────────────────
-</pre>
+<img src="./assets/section-03.svg" width="100%" alt="03 Arsenal"/>
 
 <div align="center">
-
-```
-$ ls /opt/arsenal --classified
-```
 
 **Lenguajes & Runtimes**
 
