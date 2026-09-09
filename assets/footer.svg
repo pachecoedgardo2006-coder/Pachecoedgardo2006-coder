@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Session closed">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </linearGradient>
+    <radialGradient id="flash" cx="50%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <rect width="1200" height="160" fill="url(#grid)"/>
+  <rect width="1200" height="160" fill="url(#flash)"/>
+  <rect x="18" y="18" width="1164" height="124" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
+  <line x1="80" y1="48" x2="1120" y2="48" stroke="url(#hairline)" stroke-width="0.8"/>
+  <text x="600" y="86" text-anchor="middle" fill="#e8e8e8" font-family="Georgia, Times New Roman, serif" font-size="16" letter-spacing="0.6">"El codigo limpio siempre parece que fue escrito por alguien a quien le importa."</text>
+  <text x="600" y="118" text-anchor="middle" fill="#8a8a8a" font-family="Courier New, Courier, monospace" font-size="12" letter-spacing="2.4">SESSION CLOSED  |  NODE PACHECO  |  2026</text>
+</svg>
